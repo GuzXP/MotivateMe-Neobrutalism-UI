@@ -69,3 +69,9 @@ This project is licensed under the MIT License.
 
 Check out the live version of the application:
 [MotivateMe Deployment](https://motivate-me-neobrutalism-ui-git-main-guzxps-projects.vercel.app?_vercel_share=fw6sWqA0aJvRwNcy7a11anCxIOj6by27)
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+![Screenshot](thumb/Untitled.png)
