@@ -67,7 +67,7 @@ npm run preview
 - **Autoprefixer**: A PostCSS plugin to parse CSS and add vendor prefixes.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Unemployed License Activity lol.
 
 
 
